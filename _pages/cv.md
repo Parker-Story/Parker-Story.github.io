@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](https://parker-story.github.io/files/resume.pdf)
+[Access resume here](https://parker-story.github.io/files/resume.pdf)

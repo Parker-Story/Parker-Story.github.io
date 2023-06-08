@@ -10,7 +10,7 @@ redirect_from:
 About me
 ======
 
-I am a sophmore computer science student at [University of Louisiana Monroe](https://www.ulm.edu/cbss/computerscience/program/) and currently working as an REU intern at Old Dominion University.
+I am a sophmore computer science student at [University of Louisiana Monroe](https://www.ulm.edu/cbss/computerscience/program/) and currently working as an REU intern at [Old Dominion University](https://www.odu.edu/).
 
 
 
