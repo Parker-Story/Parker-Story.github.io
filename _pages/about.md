@@ -10,9 +10,9 @@ redirect_from:
 About me
 ======
 
-I am currently a sophmore computer science student at [University of Louisiana Monroe](https://www.ulm.edu/cbss/computerscience/program/) and on track to graduate May of 2026. 
+I am currently a sophmore computer science student at the [University of Louisiana Monroe](https://www.ulm.edu/cbss/computerscience/program/) and on track to graduate May of 2026. 
 
-I appreciate the logical and analytical aspects of computer science. I also see it as a canvas for creativity. I believe that a programmer, like a painter or a poet, is a maker of patterns. It's an art form where every line and function contributes to something greater than me.
+I appreciate the logical and analytical aspects of computer science and computer programming. I also see it as a canvas for creativity. I believe that a programmer, like a painter or a poet, is a maker of patterns. It's an art form where every line and function contributes to something greater than me.
 
 
 ## Experience
@@ -21,7 +21,7 @@ I appreciate the logical and analytical aspects of computer science. I also see 
 
 Research Intern - Summer 2023
 
-During my research internship at Old Dominion University, I had the privilege of contributing to an innovative project focused on enhancing the online experience for screen reader users. Under the guidance of Dr. Ashok and in collaboration with Satwik Kodandaram, I played a crucial role in the research and development of a comprehensive browser extension designed to protect screen reader users from deceptive online content.
+During my research internship at [Old Dominion University](odu.edu), I had the privilege of contributing to an innovative project focused on enhancing the online experience for screen reader users. Under the guidance of [Dr. Ashok](https://scholar.google.com/citations?user=Of8dNP0AAAAJ&hl=en&oi=ao) and in collaboration with [Satwik Kodandaram](https://scholar.google.com/citations?user=pPFFz6AAAAAJ&hl=en&oi=ao), I played a crucial role in the research and development of a comprehensive browser extension designed to protect screen reader users from deceptive online content.
 
 Key Responsibilities and Contributions:
 
