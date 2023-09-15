@@ -38,7 +38,7 @@ Massive Test Bank Generation
 
 __[Github Repo](https://github.com/Parker-Story/TestBankGenerator)__
 
-Via the Emerging Scholars Program I have had the privlage to work with ULM's program coordinator of Computer Science, Dr. Cordova, on this facinating project that has some very exciting ideas for application within the university. Starting Spring 2023, our goal was to write a program for each Discrete Structures question type that could recieve data from a file and then use that data to instantly generate an unlimited amount of unique questions for that respective type. The wider scope of the project is to collect data and determine if each student getting their own unique question encourages cooperation and group studying, thus improving overall study time and scores in the course.
+Via the Emerging Scholars Program I have had the privilege to work with ULM's program coordinator of Computer Science, Dr. Cordova, on this fascinating project that has some very exciting ideas for application within the university. Starting Spring 2023, our goal was to write a program for each Discrete Structures question type that could recieve data from a file and then use that data to instantly generate an unlimited amount of unique questions for that respective type. The wider scope of the project is to collect data and determine if each student getting their own unique question encourages cooperation and group studying, thus improving overall study time and scores in the course.
 
 By the end of the Semester, we began using the software to generate questions for in class activities, homework, quizzes, and tests. 
 
