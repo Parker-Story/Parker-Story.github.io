@@ -10,7 +10,7 @@ redirect_from:
 About me
 ======
 
-I am currently a sophmore computer science student at the [University of Louisiana Monroe](https://www.ulm.edu/cbss/computerscience/program/) and on track to graduate May of 2026. 
+I am currently a junior computer science student at the [University of Louisiana Monroe](https://www.ulm.edu/cbss/computerscience/program/) and on track to graduate May of 2026. 
 
 I appreciate the logical and analytical aspects of computer science and computer programming. I also see it as a canvas for creativity. It's an art form where every line and function contributes to something greater than me.
 
@@ -19,9 +19,11 @@ I appreciate the logical and analytical aspects of computer science and computer
 
 ### Old Dominion University 
 
-Research Intern | Summer 2023
+Research Intern ~ Summer 2023
 
-During my research internship at [Old Dominion University](https://www.odu.edu/academics/research-experiences/reu/cis), I had the privilege of contributing to an innovative project focused on enhancing the online experience for screen reader users. Under the guidance of [Dr. Ashok](https://scholar.google.com/citations?user=Of8dNP0AAAAJ&hl=en&oi=ao) and in collaboration with [Satwik Kodandaram](https://scholar.google.com/citations?user=pPFFz6AAAAAJ&hl=en&oi=ao), I played a crucial role in the research and development of a comprehensive browser extension designed to protect screen reader users from deceptive online content.
+__[MDPI Article](https://www.mdpi.com/2313-433X/9/11/239)__
+
+During my research internship at [Old Dominion University](https://www.odu.edu/academics/research-experiences/reu/cis), I had the privilege of contributing to an innovative project focused on enhancing the online experience for screen reader users. Under the guidance of [Dr. Ashok](https://scholar.google.com/citations?user=Of8dNP0AAAAJ&hl=en&oi=ao) and in collaboration with [Satwik Kodandaram](https://scholar.google.com/citations?user=pPFFz6AAAAAJ&hl=en&oi=ao), I played a crucial role in the research and development of a comprehensive browser extension designed to protect screen reader users from deceptive online content. 
 
 Key Responsibilities and Contributions:
 
@@ -34,15 +36,23 @@ Key Responsibilities and Contributions:
 
 ### University of Louisiana Monroe
 
-Emerging Scholar | Spring 2023 - Current
+Emerging Scholar ~ Spring 2023 - Current
 
 __[Github Repo](https://github.com/Parker-Story/TestBankGenerator)__
 
-Via the Emerging Scholars Program I have had the privilege to work with ULM's former program coordinator of Computer Science, [Dr. Cordova](https://webservices.ulm.edu/facultyactivities/profile/cordova), on this fascinating project that has some very exciting ideas for application within the university. Starting Spring 2023, our goal was to write a program for each Discrete Structures question type that could recieve data from a file and then use that data to instantly generate an unlimited amount of unique questions for that respective type. The wider scope of the project is to collect data and determine if each student getting their own unique question encourages cooperation and group studying, thus improving overall study time and scores in the course.
+Via the Emerging Scholars Program I have had the privilege to work with ULM's former program coordinator of Computer Science, [Dr. Cordova](https://webservices.ulm.edu/facultyactivities/profile/cordova), on this fascinating project that has some very exciting ideas for application within the university. Starting Spring 2023, our goal was to write a program for each Discrete Structures question type that could recieve data from a file and then use that data to generate a large amount of unique questions for that respective type. The wider scope of the project is to collect data and determine if each student getting their own unique question encourages cooperation and group studying, thus improving overall study time and scores in the course.
 
 By the end of the Semester, we began using the software to generate questions for in class activities, homework, quizzes, and tests. 
 
-Before any data was able to be collected, Dr. Cordova and I were informed that the University will be switching to the LMS Canvas so the primary focus for the Fall 2023 semester was to convert the existing software so that it functions within the new LMS.
+Before any data was able to be collected, Dr. Cordova and I were informed that the University will be switching to the LMS Canvas so the primary focus for the Fall 2023 semester and onward is to convert the existing software so that it functions within the new LMS.
+
+* Develop a collection of software capable of generating a collection of advanced discrete 
+mathematical structures exercises.
+
+* Utilize in a study on the effects of randomness of exercise selection in student assignments.
+
+* Generate flexible software capable of generating large collections of exercises in an electronic 
+format that can be imported by common learning management systems.
 
 ## Projects
 
