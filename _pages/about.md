@@ -19,7 +19,7 @@ I appreciate the logical and analytical aspects of computer science and computer
 
 ### Old Dominion University 
 
-Research Intern - Summer 2023
+Research Intern | Summer 2023
 
 During my research internship at [Old Dominion University](https://www.odu.edu/academics/research-experiences/reu/cis), I had the privilege of contributing to an innovative project focused on enhancing the online experience for screen reader users. Under the guidance of [Dr. Ashok](https://scholar.google.com/citations?user=Of8dNP0AAAAJ&hl=en&oi=ao) and in collaboration with [Satwik Kodandaram](https://scholar.google.com/citations?user=pPFFz6AAAAAJ&hl=en&oi=ao), I played a crucial role in the research and development of a comprehensive browser extension designed to protect screen reader users from deceptive online content.
 
@@ -32,9 +32,9 @@ Key Responsibilities and Contributions:
 * Model Training: Working closely with Dr. Ashok and Satwik, I actively participated in the training of a large language model. BERT was used for ad text and Vision Transformer was used for the ad image. This model was specifically tailored to accurately distinguish between deceptive and non-deceptive online advertisements. This involved fine-tuning the model using the carefully curated dataset to improve its performance.
 
 
-## Projects
+### University of Louisiana Monroe
 
-Massive Test Bank Generation 
+Emerging Scholar | Spring 2023 - Current
 
 __[Github Repo](https://github.com/Parker-Story/TestBankGenerator)__
 
@@ -43,6 +43,21 @@ Via the Emerging Scholars Program I have had the privilege to work with ULM's fo
 By the end of the Semester, we began using the software to generate questions for in class activities, homework, quizzes, and tests. 
 
 Before any data was able to be collected, Dr. Cordova and I were informed that the University will be switching to the LMS Canvas so the primary focus for the Fall 2023 semester was to convert the existing software so that it functions within the new LMS.
+
+## Projects
+
+Floyd's Shortest Distance-Path Algorithm 
+
+__[Github Repo](https://github.com/Parker-Story/Floyds-Shortest-Distance-Path)__
+
+* Developed a Java application implementing the Floyd-Warshall algorithm to compute the shortest 
+distances and paths between vertices in a graph.
+
+* Utilized an adjacency matrix for input representation, handling vertices with self-travel, unexplored 
+paths, and specific path computations.
+
+* Generates and outputs a distance matrix and a path matrix to display the shortest distances and 
+paths between vertices
 
 
 ## Education
@@ -58,9 +73,12 @@ Bachelor of Science In Computer Science - 3.787 GPA - August 2022 - May 2026
 
 ## Skills & Technologies
 
-* Languagues: Java, Python, HTML, CSS, TypeScript, JavaScript, C, C#, C++, SQL
+* Languagues: Java, Python, HTML, CSS, JavaScript, C, C++, SQL
 
-* Technologies: React, Angular, Node.js, Vue.js, Pandas, PyTorch, MongoDB
+* Technologies: Git, React, Angular, Pandas, PyTorch, MongoDB
+
+* Other: Problem Solving and Logical Thinking, Written and Verbal Communication, Teamwork, 
+  Software Testing and Debugging
 
 ## Awards
 
