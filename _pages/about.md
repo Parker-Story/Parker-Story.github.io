@@ -46,19 +46,11 @@ By the end of the Semester, we began using the software to generate questions fo
 
 Before any data was able to be collected, Dr. Cordova and I were informed that the University will be switching to the LMS Canvas so the primary focus for the Fall 2023 semester and onward is to convert the existing software so that it functions within the new LMS.
 
-* Develop a collection of software capable of generating a collection of advanced discrete 
-mathematical structures exercises.
-
-* Utilize in a study on the effects of randomness of exercise selection in student assignments.
-
-* Generate flexible software capable of generating large collections of exercises in an electronic 
-format that can be imported by common learning management systems.
-
 ## Projects
 
 Floyd's Shortest Distance-Path Algorithm 
 
-__[Github Repo](https://github.com/Parker-Story/Floyds-Shortest-Distance-Path)__
+__[Floyds-Shortest-Distance-Path](https://github.com/Parker-Story/Floyds-Shortest-Distance-Path)__
 
 * Developed a Java application implementing the Floyd-Warshall algorithm to compute the shortest 
 distances and paths between vertices in a graph.
@@ -68,6 +60,17 @@ paths, and specific path computations.
 
 * Generates and outputs a distance matrix and a path matrix to display the shortest distances and 
 paths between vertices
+
+
+Soccer League Manager
+
+__[Soccer-League-Manager](https://github.com/Parker-Story/Soccer-League-Manager)__
+
+*
+
+*
+
+*
 
 
 ## Education
