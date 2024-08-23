@@ -46,6 +46,32 @@ By the end of the Semester, we began using the software to generate questions fo
 
 Before any data was able to be collected, Dr. Cordova and I were informed that the University will be switching to the LMS Canvas so the primary focus for the Fall 2023 semester and onward is to convert the existing software so that it functions within the new LMS.
 
+Key Contributions and Responsibilities:
+
+* Collaborated with Dr. Cordova on a project to develop software that generates unique Discrete Structures questions from data files for various question types.
+
+* Utilized the software to create in-class activities, homework, quizzes, and tests by the end of the semester.
+
+* Focused on converting the software to function within the new LMS Canvas following the university's transition to Canvas.
+
+* Contributed to the project's broader objective of determining if unique questions for each student encourage group study and improve overall academic performance.
+
+
+### Target
+
+Service Associate ~ September - Current
+
+* Processed transactions accurately, handling cash, credit, and digital payments while adhering to company
+policies.
+
+* Assisted in training new team members, fostering a collaborative and supportive work environment.
+
+* Utilized effective communication skills to explain product features, promotions, and services to customers,
+enhancing their shopping experience.
+
+* Provided exceptional customer service with inquiries, returns, and purchases, ensuring a positive
+shopping experience
+
 ## Projects
 
 Floyd's Shortest Distance-Path Algorithm 
@@ -66,21 +92,16 @@ Soccer League Manager
 
 __[Soccer-League-Manager](https://github.com/Parker-Story/Soccer-League-Manager)__
 
-*
-
-*
-
-*
-
+A Java program that manages and analyzes soccer league statistics, automating the calculation of team records and key metrics from .csv files. The project focused on parsing and processing structured data, implementing statistical analysis to evaluate team performance, and delivering clear, actionable outputs.
 
 ## Education
 
 ### University of Louisiana Monroe
-Bachelor of Science In Computer Science - 3.787 GPA - August 2022 - May 2026
+Bachelor of Science In Computer Science - 3.838 GPA - August 2022 - May 2026
   * Clubs: Honors Program, Association for Computing Machinery
 
 ### Iota High School
-4.0 GPA - August 2028 - May 2022
+4.09 GPA - August 2028 - May 2022
   * Clubs: Honors Program, FBLA, BETA, 4H
 
 
